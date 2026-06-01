@@ -45,6 +45,7 @@ Singkatan singkatan IT dan Penjelasannya
 | Acronym | Full Form | Arti & Penjelasan Singkat |
 | :--- | :--- | :--- |
 | **API** | Application Programming Interface | **Antarmuka Pemrograman Aplikasi**<br>Jembatan atau penghubung yang memungkinkan satu aplikasi untuk berkomunikasi dan bertukar data dengan aplikasi lainnya secara otomatis. |
+| **CDN** | Content Delivery Network | **Jaringan Pengiriman Konten**<br>Jaringan server global yang bekerja sama untuk mengirimkan konten web (seperti gambar, video, atau file CSS) ke pengguna dari server yang jarak geografisnya paling dekat, biar *loading* website jadi jauh lebih cepat. |
 | **URL** | Uniform Resource Locator | **Lokator Sumber Seragam**<br>Alamat web lengkap yang kita ketik di browser untuk menuju ke dokumen atau halaman tertentu di internet. |
 | **JSON** | JavaScript Object Notation | Format pertukaran data yang ringan, berupa teks biasa, dan sangat mudah dibaca baik oleh manusia maupun komputer. Sering dipakai saat API bekerja. |
 
